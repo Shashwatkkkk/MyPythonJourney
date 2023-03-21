@@ -27,4 +27,3 @@ if extra_cheese == "Y":
 else:
     bill = bill
 print(f"Your final bill is {bill}")
-    
